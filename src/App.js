@@ -1,5 +1,4 @@
 import React, { Suspense } from "react";
-import { useFetch } from "./useFetch";
 import { fetchData } from "./fetchData";
 import "./App.css";
 
